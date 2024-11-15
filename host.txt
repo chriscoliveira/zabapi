@@ -1,0 +1,17 @@
+Status= Ativo
+Hostid= 10637
+Host= HELLSING
+Name= HELLSING
+Description= descrição
+Interfaces Associadas:
+	Agent: IP= 192.168.0.145 DNS= 8.8.8.8 PORTA= 10050
+	SNMP:  IP= 127.0.0.1 DNS= 4.4.4.4 PORTA= 161
+	IPMI:  IP= 127.0.0.3 DNS= 0.0.0.0 PORTA= 623
+	JMX:   IP= 127.0.0.2 DNS= 1.1.1.1 PORTA= 12345
+Templates Associados:
+	id= 10081, nome= Windows by Zabbix agent
+Grupos Associados:
+	id= 22, Grupo= Windows
+
+------------------------------------------------------------
+
